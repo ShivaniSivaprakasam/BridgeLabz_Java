@@ -161,3 +161,42 @@ In this Readme documentation, I'll keep updating my learnings which I gain while
 
 **Issues:**
 - Faced issue while solving problems involving 2D array and string combinations
+
+---
+
+### **23rd December, 2025**
+**What I’ve done:**
+- Completed problems on Java class and object
+
+**What I will do next:**
+- Complete problems on Java constructors
+
+**Issues:**
+- Faced issue while working on constructing a constructor, but now able to build a constructor without error
+
+---
+
+### **8th January, 2026**
+**What I’ve done:**
+- Learn about git comments 
+
+**What I will do next:**
+- Create dev branch and push coding files
+
+**Issues:**
+- Had issue while creating dev branch
+
+---
+
+### **9th January, 2026**
+**What I’ve done:**
+- Created a new repo using Git flow  
+
+**What I will do next:**
+- To complete pending week 2 day 3 problems
+
+**Issues:**
+- Had issue in understanding problems involving instance of operator
+
+- Faced issue while solving problems involving 2D array and string combinations
+
