@@ -1,4 +1,21 @@
 package objectorientedprogramming.nonaccessmodifiers.level1;
+/*
+This program demonstrates the use of non-access modifiers: static and final in Java.
+It defines a Patient class with:
+1. A static hospitalName shared by all patients.
+2. A static totalPatients counter to track total admitted patients.
+3. A final patientID that cannot be changed once assigned.
+
+The Patient class has methods to:
+- Display total patients using a static method.
+- Display individual patient details using a static method that accepts an Object.
+
+The main class HospitalManagement:
+- Gets user input for multiple patients.
+- Creates Patient objects.
+- Displays total patients and details of each patient.
+*/
+
 import java.util.Scanner;
 // Created a class called patient
 class Patient {
