@@ -1,4 +1,18 @@
 package objectorientedprogramming.nonaccessmodifiers.level2;
+/*
+This program demonstrates the use of non-access modifiers: static and final in Java.
+It defines a Vehicle class with:
+1. A final registrationNumber that cannot be changed once assigned.
+2. A static registrationFee shared by all vehicles.
+3. A static method updateRegistrationFee() to modify the registration fee.
+4. A static method displayDetails() to display vehicle information.
+
+The main class Registration:
+- Gets user input for registration fee, vehicle details.
+- Creates a Vehicle object.
+- Displays the details of the entered vehicle including the shared registration fee.
+*/
+
 import java.util.Scanner;
 // Created a vehicle class
 class Vehicle {
