@@ -1,4 +1,16 @@
 package objectorientedprogramming.inheritance.level1;
+/*
+This program demonstrates inheritance and method overriding using an employee hierarchy.
+It allows the user to:
+1. Select an employee type: Manager, Developer, or Intern.
+2. Enter employee details: name, ID, salary, and role-specific information.
+3. Display the complete employee details including role-specific attributes.
+
+The base class Employee stores common employee properties and a method to display details.
+Manager, Developer, and Intern extend Employee and override displayDetails() to show additional information.
+Polymorphism is used in the main method to call the appropriate displayDetails() method dynamically.
+*/
+
 import java.util.Scanner;
 // Created an employee class
 class Employee {
