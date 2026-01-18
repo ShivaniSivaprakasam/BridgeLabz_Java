@@ -1,4 +1,15 @@
 package objectorientedprogramming.classstructure.level1;
+/*
+This program simulates a basic e-commerce system.
+It allows a user to:
+1. Enter a customer name.
+2. Create multiple orders with multiple products in each order.
+3. Display the details of each order including product names, prices, and total amount.
+The Product class stores product details, the Order class manages multiple products, 
+and the Customer class manages multiple orders.
+The ECommersSystem class handles user input and displays all order information.
+*/
+
 import java.util.ArrayList;
 import java.util.Scanner;
 // Creating a product class
