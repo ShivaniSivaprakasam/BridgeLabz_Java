@@ -1,4 +1,19 @@
 package objectorientedprogramming.nonaccessmodifiers.level2;
+/*
+This program demonstrates the use of non-access modifiers: static and final in Java.
+It defines a Student class with:
+1. A final rollNumber that cannot be changed once assigned.
+2. A static universityName shared by all students.
+3. A static totalStudents counter to track the number of Student objects created.
+4. A static method displayTotalStudents() to show total enrolled students.
+5. A static method processStudent() to display details of a Student object.
+
+The main class UniversityStudent:
+- Gets user input for the number of students and their details.
+- Creates Student objects and stores them in an array.
+- Displays total students and details of each student.
+*/
+
 import java.util.Scanner;
 // Created a student class
 class Student {
