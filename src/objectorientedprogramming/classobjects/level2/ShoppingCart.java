@@ -1,4 +1,13 @@
 package objectorientedprogramming.classobjects.level2;
+/*
+This program simulates a simple shopping cart system.
+It allows a user to:
+1. Add an item with name, price, and quantity to the cart.
+2. Display the total cost of the item(s) in the cart.
+3. Remove the item from the cart if desired.
+The CartItem class stores item details and ShoppingCart handles user interaction.
+*/
+
 import java.util.Scanner;
 // Created a class cart item
 class CartItem {
