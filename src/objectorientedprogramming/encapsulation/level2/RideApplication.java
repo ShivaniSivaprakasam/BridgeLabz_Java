@@ -1,4 +1,17 @@
 package objectorientedprogramming.encapsulation.level2;
+/*
+This program simulates a ride-hailing application using abstraction, interfaces, and polymorphism.
+It allows the user to:
+1. Choose a vehicle type: Sedan, Two Wheeler, or Auto Rickshaw.
+2. Enter vehicle details: ID, driver name, and ride distance.
+3. Update the current location of the vehicle.
+4. Display vehicle details, current location, ride distance, and calculate total fare.
+
+The abstract class RideVehicle stores common vehicle details and defines methods for calculating fare.
+SedanRide, TwoWheelerRide, and AutoRickshawRide extend RideVehicle and implement the LocationTracker interface to manage location updates.
+The RideApplication class demonstrates polymorphism by processing rides dynamically based on the selected vehicle type.
+*/
+
 import java.util.Scanner;
 // Creating an interface
 interface LocationTracker {
