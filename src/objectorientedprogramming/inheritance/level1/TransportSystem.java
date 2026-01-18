@@ -1,4 +1,16 @@
 package objectorientedprogramming.inheritance.level1;
+/*
+This program demonstrates inheritance and method overriding using a vehicle hierarchy.
+It allows the user to:
+1. Enter multiple vehicles and choose their type: Car, Truck, or Motorcycle.
+2. Input details specific to each vehicle type, such as max speed, fuel type, and role-specific attributes (seat capacity, load capacity, engine capacity).
+3. Display complete details for all entered vehicles.
+
+The base class Vehicle stores common properties and a method to display them.
+Car, Truck, and Motorcycle extend Vehicle and override displayInfo() to include type-specific information.
+Polymorphism is used to call the appropriate displayInfo() method for each vehicle dynamically.
+*/
+
 import java.util.Scanner;
 // Created a vehicle class
 class Vehicle {
