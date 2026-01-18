@@ -1,4 +1,17 @@
 package objectorientedprogramming.encapsulation.level1;
+/*
+This program simulates a basic banking system with encapsulation, inheritance, and interfaces.
+It allows a user to:
+1. Choose an account type: Savings or Current.
+2. Enter account details: number, holder name, and initial balance.
+3. Deposit and withdraw amounts.
+4. Display account details and calculate interest.
+5. Apply for a loan and calculate loan eligibility.
+The BankAccount abstract class stores common account details and methods.
+SavingsAccount and CurrentAccount extend BankAccount and implement the Loanable interface for loan operations.
+The BankingSystem class handles user input and processes the account actions.
+*/
+
 import java.util.Scanner;
 // Creating an interface called lonable
 interface Loanable {
