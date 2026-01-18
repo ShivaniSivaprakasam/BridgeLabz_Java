@@ -1,4 +1,21 @@
 package objectorientedprogramming.nonaccessmodifiers.level1;
+/*
+This program demonstrates the use of non-access modifiers: static and final in Java.
+It defines an Employee class with:
+1. A static companyName shared by all employees.
+2. A final id that cannot be changed once assigned.
+3. A private static totalEmployees counter to track the number of Employee objects.
+
+The Employee class has methods to:
+- Display individual employee details.
+- Display the total number of employees using a static method.
+
+The main class EmployeeManagement:
+- Gets user input for employee name and designation.
+- Creates an Employee object.
+- Displays employee details and total employees.
+*/
+
 import  java.util.Scanner;
 // Created a class called Employee
 class Employee{
