@@ -1,58 +1,80 @@
 package coreprogramming.controlflowpractices.level2;
-import  java.util.Scanner;
+
+import java.util.Scanner;
+
 public class YoungestFriend {
-    // Creating method to find the youngest friend
-    public static int youngestFriend(int amarAge,int akbarAge,int anthonyAge){
-        // Coundition to find the youngest friend
-        if ( amarAge < anthonyAge && amarAge < akbarAge ){
+
+    /**
+     * Method to find the youngest friend based on ages
+     *  amarAge age of Amar
+     *  akbarAge age of Akbar
+     *  anthonyAge age of Anthony
+     *  age of the youngest friend, or 0 if a tie
+     */
+    public static int youngestFriend(int amarAge, int akbarAge, int anthonyAge) {
+        if (amarAge < akbarAge && amarAge < anthonyAge) {
             return amarAge;
-        }
-        else if ( akbarAge < anthonyAge && akbarAge < amarAge ){
+        } else if (akbarAge < amarAge && akbarAge < anthonyAge) {
             return akbarAge;
-        }
-        else if ( anthonyAge < amarAge && anthonyAge < akbarAge ){
+        } else if (anthonyAge < amarAge && anthonyAge < akbarAge) {
             return anthonyAge;
-        }
-        else{
-            return 0;
+        } else {
+            return 0; // Tie between two or more friends
         }
     }
-    // Creating a method to find the tallest friend
-    public static float tallestFriend(float amarHeight,float akbarHeight,float anthonyHeight){
-        // Condition to find the tallest friend
-        if ( amarHeight > anthonyHeight && amarHeight > akbarHeight ){
+
+    /**
+     * Method to find the tallest friend based on heights
+     *  amarHeight height of Amar
+     *  akbarHeight height of Akbar
+     * anthonyHeight height of Anthony
+     *  height of the tallest friend, or 0 if a tie
+     */
+    public static float tallestFriend(float amarHeight, float akbarHeight, float anthonyHeight) {
+        if (amarHeight > akbarHeight && amarHeight > anthonyHeight) {
             return amarHeight;
-        }
-        else if ( akbarHeight > anthonyHeight && akbarHeight > amarHeight ){
+        } else if (akbarHeight > amarHeight && akbarHeight > anthonyHeight) {
             return akbarHeight;
-        }
-        else if ( anthonyHeight > amarHeight && anthonyHeight > akbarHeight ){
+        } else if (anthonyHeight > amarHeight && anthonyHeight > akbarHeight) {
             return anthonyHeight;
-        }
-        else{
-            return 0;
+        } else {
+            return 0; // Tie between two or more friends
         }
     }
+
     public static void main(String[] args) {
         Scanner input = new Scanner(System.in);
+
         // Getting user input
-        System.out.print("Enter amar\'s age: ");
+        System.out.print("Enter Amar's age: ");
         int amarAge = input.nextInt();
-        System.out.print("Enter akbar\'s age: ");
+        System.out.print("Enter Akbar's age: ");
         int akbarAge = input.nextInt();
-        System.out.print("Enter anthony\'s age: ");
+        System.out.print("Enter Anthony's age: ");
         int anthonyAge = input.nextInt();
-        System.out.print("Enter amar\'s height: ");
+
+        System.out.print("Enter Amar's height: ");
         float amarHeight = input.nextFloat();
-        System.out.print("Enter akbar\'s height: ");
+        System.out.print("Enter Akbar's height: ");
         float akbarHeight = input.nextFloat();
-        System.out.print("Enter anthony\'s height: ");
+        System.out.print("Enter Anthony's height: ");
         float anthonyHeight = input.nextFloat();
-        // Calling method
-        int age = youngestFriend(amarAge,akbarAge,anthonyAge);
-        float height = tallestFriend(amarHeight,akbarHeight,anthonyHeight);
-        // Displaying method
-        System.out.println("The youngest friend is "+age);
-        System.out.println("The tallest friend is "+height);
+
+        // Calling methods
+        int youngest = youngestFriend(amarAge, akbarAge, anthonyAge);
+        float tallest = tallestFriend(amarHeight, akbarHeight, anthonyHeight);
+
+        // Displaying results
+        if (youngest != 0) {
+            System.out.println("The youngest friend is: " + youngest);
+        } else {
+            System.out.println("There is a tie for the youngest friend.");
+        }
+
+        if (tallest != 0) {
+            System.out.println("The tallest friend is: " + tallest);
+        } else {
+            System.out.println("There is a tie for the tallest friend.");
+        }
     }
 }
