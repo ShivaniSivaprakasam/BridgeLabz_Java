@@ -1,4 +1,18 @@
 package objectorientedprogramming.classobjects.level1;
+/*
+ * This program demonstrates the use of classes and objects in Java.
+ * 
+ * 1. The MobilePhone class stores information about a mobile phone: brand, model, and price.
+ *    - It has a constructor to initialize these fields.
+ *    - Getter methods provide access to the fields.
+ *    - Setter methods allow updating the fields, with validation for price (>0).
+ *
+ * 2. The PhoneDetails class displays the details of a MobilePhone object.
+ *    - The phoneDetails method prints the brand, model, and price of the phone.
+ *    - In the main method, user input is taken to create a MobilePhone object,
+ *      and its details are displayed.
+ */
+
 import java.util.Scanner;
 // Created mobile phone class
 class MobilePhone {
