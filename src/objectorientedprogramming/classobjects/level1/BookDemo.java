@@ -1,4 +1,14 @@
 package objectorientedprogramming.classobjects.level1;
+/*
+ * This program demonstrates a simple use of classes and objects in Java.
+ * 
+ * 1. The Book class stores details about a book: title, author, and price.
+ *    It has a constructor, getters, and setters to access and modify these fields.
+ *
+ * 2. The BookDemo class gets input from the user to create a Book object
+ *    and displays its details using the displayDetails method.
+ */
+
 import java.util.Scanner;
 // Created a book class
 class Book {
