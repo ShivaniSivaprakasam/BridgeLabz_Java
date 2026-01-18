@@ -1,4 +1,19 @@
 package objectorientedprogramming.classstructure.level2;
+/*
+This program simulates a school administration system.
+It allows a user to:
+1. Enter a school name and a list of students.
+2. Enter a list of courses.
+3. Enroll students in chosen courses.
+4. Display all students in the school.
+5. Display courses each student is enrolled in.
+6. Display students enrolled in each course.
+The Student class stores student details and enrolled courses,
+the Course class stores course details and enrolled students,
+and the School class manages all students.
+The SchoolAdministration class handles user input and coordinates all interactions.
+*/
+
 import java.util.ArrayList;
 import java.util.Scanner;
 // Created student class
