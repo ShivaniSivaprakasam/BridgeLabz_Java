@@ -1,4 +1,16 @@
 package objectorientedprogramming.classstructure.level1;
+/*
+This program simulates a hospital management system.
+It allows a user to:
+1. Enter hospital details, including doctors and patients.
+2. Record consultations between doctors and patients.
+3. Display hospital information, including lists of doctors and patients.
+4. Show which patients are consulted by each doctor and which doctors are consulted by each patient.
+The Patient class stores patient details, the Doctor class stores doctor details and consultations,
+and the Hospital class manages all doctors and patients.
+The HospitalFiles class handles user input and coordinates the interactions.
+*/
+
 import java.util.ArrayList;
 import java.util.Scanner;
 // Create a parent class
