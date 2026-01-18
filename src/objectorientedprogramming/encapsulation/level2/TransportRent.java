@@ -1,4 +1,17 @@
 package objectorientedprogramming.encapsulation.level2;
+/*
+This program simulates a vehicle rental system with insurance using abstraction, interfaces, and polymorphism.
+It allows the user to:
+1. Choose vehicle types: Car, Bike, or Truck.
+2. Enter vehicle details: number, rental rate, and insurance policy number.
+3. Enter the number of rental days.
+4. Calculate and display rental cost, insurance cost, and total cost for each vehicle.
+
+The abstract class Vehicle stores common vehicle details and defines a method to calculate rental cost.
+Car, Bike, and Truck extend Vehicle and implement the Insurable interface to calculate insurance cost.
+The TransportRent class demonstrates polymorphism by processing different vehicle types dynamically.
+*/
+
 import java.util.Scanner;
 // Creating interface
 interface Insurable {
