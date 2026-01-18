@@ -1,4 +1,4 @@
-package oopfundamentals.inheritance.level1;
+package objectorientedprogramming.inheritance.level1;
 import java.util.Scanner;
 // Created an employee class
 class Employee {

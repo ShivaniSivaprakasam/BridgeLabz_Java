@@ -1,4 +1,4 @@
-package oopfundamentals.inheritance.level5;
+package objectorientedprogramming.inheritance.level5;
 import java.util.Scanner;
 interface Refuelable {
     void refuel();

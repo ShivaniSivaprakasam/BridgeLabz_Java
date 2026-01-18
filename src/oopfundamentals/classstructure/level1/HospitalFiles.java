@@ -1,4 +1,4 @@
-package oopfundamentals.classstructure.level1;
+package objectorientedprogramming.classstructure.level1;
 import java.util.ArrayList;
 import java.util.Scanner;
 // Create a parent class

@@ -1,4 +1,4 @@
-package oopfundamentals.javaconstructors.level3;
+package objectorientedprogramming.javaconstructors.level3;
 
 public class university {
 }

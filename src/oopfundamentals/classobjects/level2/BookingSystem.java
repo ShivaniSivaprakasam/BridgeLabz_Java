@@ -1,4 +1,4 @@
-package oopfundamentals.classobjects.level2;
+package objectorientedprogramming.classobjects.level2;
 import java.util.Scanner;
 // Created a class called movie ticket
 class MovieTicket {

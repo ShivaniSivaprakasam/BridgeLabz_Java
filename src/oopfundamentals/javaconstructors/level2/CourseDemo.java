@@ -1,4 +1,4 @@
-package oopfundamentals.javaconstructors.level2;
+package objectorientedprogramming.javaconstructors.level2;
 
 public class CourseDemo {
 }

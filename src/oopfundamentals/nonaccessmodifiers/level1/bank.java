@@ -1,4 +1,4 @@
-package oopfundamentals.nonaccessmodifiers.level1;
+package objectorientedprogramming.nonaccessmodifiers.level1;
 import java.util.Scanner;
 // Created a class called Bank Account
 class BankAccount {

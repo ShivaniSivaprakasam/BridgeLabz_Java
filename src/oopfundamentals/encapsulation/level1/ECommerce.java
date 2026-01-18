@@ -1,4 +1,4 @@
-package oopfundamentals.encapsulation.level1;
+package objectorientedprogramming.encapsulation.level1;
 import java.util.Scanner;
 // Creating an interface
 interface Taxable {

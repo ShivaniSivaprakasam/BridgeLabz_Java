@@ -1,4 +1,4 @@
-package oopfundamentals.inheritance.level4;
+package objectorientedprogramming.inheritance.level4;
 import java.util.Scanner;
 class Person {
     String name;

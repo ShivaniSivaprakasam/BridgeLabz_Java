@@ -1,4 +1,4 @@
-package oopfundamentals.javaconstructors.level1;
+package objectorientedprogramming.javaconstructors.level1;
 
 public class BookSystem {
 }

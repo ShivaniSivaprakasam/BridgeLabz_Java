@@ -1,4 +1,4 @@
-package oopfundamentals.inheritance.level2;
+package objectorientedprogramming.inheritance.level2;
 import java.util.Scanner;
 class Book {
     String title;

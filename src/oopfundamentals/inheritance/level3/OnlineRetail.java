@@ -1,4 +1,4 @@
-package oopfundamentals.inheritance.level3;
+package objectorientedprogramming.inheritance.level3;
 import java.util.Scanner;
 class Order {
     int orderId;
