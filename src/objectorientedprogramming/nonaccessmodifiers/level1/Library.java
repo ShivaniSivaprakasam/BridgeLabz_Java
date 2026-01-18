@@ -1,4 +1,19 @@
 package objectorientedprogramming.nonaccessmodifiers.level1;
+/*
+This program demonstrates the use of non-access modifiers: static and final in Java.
+It defines a Book class with:
+1. A final isbn that cannot be changed once assigned.
+2. A static libraryName shared by all books.
+3. A static method to display the library name.
+
+The Book class also has an instance method to display book details.
+
+The main class Library:
+- Gets user input for book title, author, and ISBN.
+- Creates a Book object.
+- Displays the library name and details of the entered book.
+*/
+
 import java.util.Scanner;
 // Created a book class
 class Book{
