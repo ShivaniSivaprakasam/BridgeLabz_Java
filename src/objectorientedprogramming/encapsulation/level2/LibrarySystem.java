@@ -1,4 +1,17 @@
 package objectorientedprogramming.encapsulation.level2;
+/*
+This program simulates a basic library management system using encapsulation, abstraction, and interfaces.
+It allows the user to:
+1. Choose between Book, Magazine, and DVD.
+2. Enter item details: ID, title, and author.
+3. Display item details and loan duration.
+4. Reserve the item if available, storing the borrower's name.
+
+The abstract class LibraryItem stores common information and defines methods for item details and loan duration.
+Book, Magazine, and DVD extend LibraryItem and implement the Reservable interface to handle reservations and availability.
+The LibrarySystem class handles user input, processes items polymorphically, and manages reservations.
+*/
+
 import java.util.Scanner;
 // Creating an interface reservable
 interface Reservable {
