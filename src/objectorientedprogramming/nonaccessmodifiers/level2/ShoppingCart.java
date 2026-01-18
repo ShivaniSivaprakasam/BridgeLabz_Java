@@ -1,4 +1,18 @@
 package objectorientedprogramming.nonaccessmodifiers.level2;
+/*
+This program demonstrates the use of non-access modifiers: static and final in Java.
+It defines a Product class with:
+1. A final productID that cannot be changed once assigned.
+2. A static discount shared by all products.
+3. A static method updateDiscount() to set the discount percentage.
+4. A static method processProduct() to calculate and display discounted total cost and product details.
+
+The main class ShoppingCart:
+- Gets user input for discount and product details.
+- Creates a Product object.
+- Displays product information including discounted total cost.
+*/
+
 import  java.util.Scanner;
 // Created a class called product
 class Product {
