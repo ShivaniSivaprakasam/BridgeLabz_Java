@@ -1,4 +1,13 @@
 package objectorientedprogramming.classobjects.level2;
+/*
+This program simulates a student report system.
+It allows a user to:
+1. Enter student details: name, roll number, and marks.
+2. Determine the student's grade based on marks.
+3. Display the student's details and grade.
+The Student class stores student information, and StudentReport handles grade calculation and display.
+*/
+
 import java.util.Scanner;
 // Created a student class
 class Student {
