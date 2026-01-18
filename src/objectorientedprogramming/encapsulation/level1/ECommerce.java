@@ -1,4 +1,16 @@
 package objectorientedprogramming.encapsulation.level1;
+/*
+This program simulates a basic e-commerce system with products, discounts, and taxes.
+It allows a user to:
+1. Enter multiple products of different types: Electronics, Clothing, or Groceries.
+2. Calculate discounts and applicable taxes for each product.
+3. Display product details, discount, tax, and final price.
+The Product abstract class stores common product information and discount calculation.
+Electronics and Clothing implement the Taxable interface for tax calculation.
+Groceries do not have tax applied.
+The ECommerce class handles user input and prints the final price for each product.
+*/
+
 import java.util.Scanner;
 // Creating an interface
 interface Taxable {
