@@ -1,4 +1,21 @@
 package objectorientedprogramming.nonaccessmodifiers.level1;
+/*
+This program demonstrates the use of non-access modifiers: static and final in Java.
+It defines a BankAccount class with:
+1. A final accountNumber that cannot be changed once assigned.
+2. A static bankName shared by all accounts.
+3. A static field totalAccounts to track total accounts created.
+4. A static method getTotalAccounts() to display total accounts.
+
+The BankAccount class also has an instance method displayDetails() 
+to show account information.
+
+The main class bank:
+- Gets user input to create two bank accounts.
+- Displays details of each account.
+- Displays the total number of accounts created.
+*/
+
 import java.util.Scanner;
 // Created a class called Bank Account
 class BankAccount {
