@@ -1,4 +1,17 @@
 package objectorientedprogramming.classstructure.level2;
+/*
+This program simulates a university management system.
+It allows a user to:
+1. Enter a university name.
+2. Add departments and faculty members to the university.
+3. Display university details, including departments and faculty.
+4. Optionally delete the university (removing all departments).
+5. Display faculty members independently even after university deletion.
+The Faculty class stores faculty details, the Department class stores department names,
+and the University class manages departments and faculty members.
+The UniversityDetails class handles user input and coordinates all interactions.
+*/
+
 import java.util.ArrayList;
 import java.util.Scanner;
 // Created a class called Faculty
