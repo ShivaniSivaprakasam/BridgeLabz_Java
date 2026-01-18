@@ -1,4 +1,16 @@
 package objectorientedprogramming.inheritance.level1;
+/*
+This program demonstrates inheritance and method overriding in Java using an animal hierarchy.
+It allows the user to:
+1. Choose an animal type: Dog, Cat, or Bird.
+2. Enter the animal's name and age.
+3. Display the sound made by the selected animal.
+
+The base class Animal defines common properties and a makeSound() method.
+Dog, Cat, and Bird extend Animal and override makeSound() to provide specific sounds.
+Polymorphism is used in the main method to call the correct makeSound() method dynamically.
+*/
+
 import java.util.Scanner;
 // Created an animal class
 class Animal {
