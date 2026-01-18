@@ -1,4 +1,15 @@
 package objectorientedprogramming.encapsulation.level1;
+/*
+This program simulates a basic food delivery ordering system using encapsulation, inheritance, and interfaces.
+It allows a user to:
+1. Choose between Veg and Non-Veg food items.
+2. Enter item details: name, price, and quantity.
+3. Calculate the total price, apply discounts, and display the final price.
+The FoodItem abstract class stores common information and declares a method to calculate total price.
+VegItem and NonVegItem extend FoodItem and implement the Discountable interface for discount calculations.
+The FoodDelivery class handles user input, processes orders, and prints item details along with discounts and final price.
+*/
+
 import java.util.Scanner;
 // Created an interface
 interface Discountable {
