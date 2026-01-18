@@ -1,4 +1,14 @@
 package objectorientedprogramming.classobjects.level2;
+/*
+This program simulates a simple ATM system.
+It allows a user to:
+1. Create a bank account with holder name, account number, and initial balance.
+2. Deposit an amount into the account.
+3. Withdraw an amount from the account.
+4. Display the current balance.
+The BankAccount class stores account details and ATM class handles transactions.
+*/
+
 import java.util.Scanner;
 // Created a class bank account
 class BankAccount {
