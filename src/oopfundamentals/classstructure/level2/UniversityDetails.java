@@ -1,4 +1,4 @@
-package objectorientedprogramming.classstructure.level1;
+package oopfundamentals.classstructure.level2;
 import java.util.ArrayList;
 import java.util.Scanner;
 // Created a class called Faculty

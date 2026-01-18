@@ -1,4 +1,4 @@
-package objectorientedprogramming.nonaccessmodifiers.level1;
+package oopfundamentals.nonaccessmodifiers.level2;
 import java.util.Scanner;
 // Created a student class
 class Student {

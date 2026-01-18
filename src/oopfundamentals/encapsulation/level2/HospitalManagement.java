@@ -1,4 +1,4 @@
-package objectorientedprogramming.encapsulation.level1;
+package oopfundamentals.encapsulation.level2;
 import java.util.Scanner;
 // Creating an interface called medical record
 interface MedicalRecord {
