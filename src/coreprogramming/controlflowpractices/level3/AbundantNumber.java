@@ -1,5 +1,11 @@
 package coreprogramming.controlflowpractices.level3;
 import java.util.Scanner;
+/*
+ * Checks if a number is abundant:
+ * 1. Input a positive number.
+ * 2. Sum all its proper divisors (1 to N-1).
+ * 3. If sum > number, it's abundant; else not.
+ */
 public class AbundantNumber {
     public static void main(String[] args){
         Scanner input = new Scanner(System.in);
