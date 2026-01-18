@@ -1,20 +1,47 @@
 package coreprogramming.javamethods.level1;
+
 import java.util.Scanner;
+
 public class TrigonometricFunctions {
-    public static double[] calculateTrigonometricFunctions(double angle){
-       double rad = Math.toRadians(angle);
-       double sine = Math.sin(rad);
-       double cosine = Math.cos(rad);
-       double tangent = Math.tan(rad);
-       return new double[]{sine,cosine,tangent};
-   }
-   public static void main(String[] args){
-       Scanner input = new Scanner(System.in);
-       System.out.print("Enter angle in degrees: ");
-       double angle = input.nextDouble();
-       double[] result = calculateTrigonometricFunctions(angle);
-       System.out.println("The sine angle: " +result[0]);
-       System.out.println("The cosine angle: " +result[1]);
-       System.out.println("The tangent angle: " +result[2]);
-   }
+
+    /*
+     * This method calculates sine, cosine, and tangent
+     * of an angle given in degrees.
+     *
+     * Parameter:
+     * - angle : angle in degrees
+     *
+     * Returns:
+     * - double array containing {sine, cosine, tangent}
+     */
+    public static double[] calculateTrigonometricFunctions(double angle) {
+
+        // Convert degrees to radians
+        double radians = Math.toRadians(angle);
+
+        // Calculate trigonometric values
+        double sine = Math.sin(radians);
+        double cosine = Math.cos(radians);
+        double tangent = Math.tan(radians);
+
+        return new double[]{sine, cosine, tangent};
+    }
+
+    public static void main(String[] args) {
+
+        // Create Scanner object to read input
+        Scanner input = new Scanner(System.in);
+
+        // Read angle from user
+        System.out.print("Enter angle in degrees: ");
+        double angle = input.nextDouble();
+
+        // Calculate trigonometric functions
+        double[] result = calculateTrigonometricFunctions(angle);
+
+        // Display results
+        System.out.println("Sine of the angle: " + result[0]);
+        System.out.println("Cosine of the angle: " + result[1]);
+        System.out.println("Tangent of the angle: " + result[2]);
+    }
 }
