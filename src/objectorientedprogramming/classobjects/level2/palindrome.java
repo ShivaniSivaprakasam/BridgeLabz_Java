@@ -1,4 +1,13 @@
 package objectorientedprogramming.classobjects.level2;
+/*
+This program checks whether a given string is a palindrome.
+It allows a user to:
+1. Enter a string.
+2. Verify if the string reads the same forwards and backwards.
+3. Display the result to the user.
+The PalindromeChecker class performs the palindrome check and displays the result.
+*/
+
 import java.util.Scanner;
 // Created a class palindrome checker
 class PalindromeChecker {
