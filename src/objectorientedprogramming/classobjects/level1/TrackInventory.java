@@ -1,4 +1,19 @@
 package objectorientedprogramming.classobjects.level1;
+/*
+ * This program demonstrates the use of classes and objects in Java for inventory tracking.
+ * 
+ * 1. The Item class stores information about an inventory item: item code, item name, and price.
+ *    - It has a constructor to initialize these fields.
+ *    - Getter methods allow access to the fields.
+ *    - Setter methods allow updating the fields, with validation for price (>0).
+ *
+ * 2. The TrackInventory class performs operations on an Item object.
+ *    - The itemDisplay method prints the item's name, code, and price.
+ *    - The itemPice method calculates the total price based on user-provided quantity.
+ *    - In the main method, user input is taken to create an Item object,
+ *      its details are displayed, and the total price is calculated and shown.
+ */
+
 import java.util.Scanner;
 // Created a class named item
 class Item{
