@@ -1,4 +1,17 @@
 package objectorientedprogramming.encapsulation.level2;
+/*
+This program simulates a hospital management system using encapsulation, abstraction, and interfaces.
+It allows the user to:
+1. Choose between In-Patient and Out-Patient types.
+2. Enter patient details: ID, name, age, and number of days admitted (for in-patients).
+3. Add medical records (diagnosis and history) and view them.
+4. Calculate and display the total bill amount for the patient.
+
+The abstract class Patient stores common patient information and defines methods for displaying details and calculating bills.
+InPatient and OutPatient extend Patient and implement the MedicalRecord interface to handle medical records and billing differently.
+The HospitalManagement class handles user input, processes patient records, and displays all details including medical history and bill.
+*/
+
 import java.util.Scanner;
 // Creating an interface called medical record
 interface MedicalRecord {
