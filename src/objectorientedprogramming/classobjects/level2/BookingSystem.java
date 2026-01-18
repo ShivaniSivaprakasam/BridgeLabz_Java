@@ -1,4 +1,13 @@
 package objectorientedprogramming.classobjects.level2;
+/*
+This program simulates a movie ticket booking system.
+It allows a user to:
+1. Enter a movie name.
+2. Book a ticket by providing seat number and price.
+3. Display the booked ticket details.
+The MovieTicket class stores ticket information and BookingSystem handles user interaction.
+*/
+
 import java.util.Scanner;
 // Created a class called movie ticket
 class MovieTicket {
