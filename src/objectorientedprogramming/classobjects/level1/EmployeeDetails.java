@@ -1,4 +1,18 @@
 package objectorientedprogramming.classobjects.level1;
+/*
+ * This program demonstrates the use of classes and objects in Java.
+ * 
+ * 1. The Employee class stores information about an employee: name, ID, and salary.
+ *    - It has a constructor to initialize these fields.
+ *    - Getter methods allow access to the fields.
+ *    - Setter methods allow updating the fields, with validation for salary (>0).
+ *
+ * 2. The EmployeeDetails class displays the details of an Employee object.
+ *    - The employeeDisplay method prints the employee's name, ID, and salary.
+ *    - In the main method, user input is taken to create an Employee object,
+ *      and its details are displayed.
+ */
+
 import java.util.Scanner;
 // Created a class names employee
 class Employee{
