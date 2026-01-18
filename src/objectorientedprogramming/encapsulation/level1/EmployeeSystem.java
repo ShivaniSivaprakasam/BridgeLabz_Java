@@ -1,4 +1,16 @@
 package objectorientedprogramming.encapsulation.level1;
+/*
+This program simulates an employee management system using encapsulation, inheritance, and interfaces.
+It allows a user to:
+1. Enter multiple employees of different types: Full-Time or Part-Time.
+2. Enter employee details: ID, name, department, salary/hourly rate, and hours worked (for part-time).
+3. Calculate salary based on employee type.
+4. Display employee details along with their department.
+The Employee abstract class stores common employee information and declares an abstract salary calculation method.
+FullTimeEmployee and PartTimeEmployee extend Employee and implement the Department interface.
+The EmployeeSystem class handles user input, object creation, and displays employee information.
+*/
+
 import java.util.Scanner;
 import java.util.*;
 // Creating an interface
