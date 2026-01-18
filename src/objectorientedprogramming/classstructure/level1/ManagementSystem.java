@@ -1,4 +1,17 @@
 package objectorientedprogramming.classstructure.level1;
+/*
+This program simulates a basic learning management system.
+It allows a user to:
+1. Enter learners, instructors, and subjects.
+2. Assign instructors to subjects.
+3. Register learners for subjects.
+4. Display details of each subject, including its instructor and enrolled learners.
+The Learner class stores learner information and registered subjects,
+the Instructor class stores instructor information and allocated subjects,
+and the Subject class links instructors with learners and shows details.
+The ManagementSystem class handles user input and coordinates all interactions.
+*/
+
 import java.util.ArrayList;
 import java.util.Scanner;
 // Creating a leaner class
