@@ -25,6 +25,8 @@
 - **15-Jan-2026 (Thursady):** Learnt data structures in Java and problems on linked-list.
 - **16-Jan-2026 (Friday):** Worked on corrections provided for git-hub repo.
 - **17-Jan-2026 (Saturday):** Started working on day 1 DSA practice problems.
-- **18-Jan-2026 (Monday):** Started working on day 1 DSA remaining practice problems.
+- **19-Jan-2026 (Monday):** Started working on day 1 DSA remaining practice problems.
+- **20-Jan-2026 (Tuesday):** Attended review for Java on OOPS concepts.
+
 
 
