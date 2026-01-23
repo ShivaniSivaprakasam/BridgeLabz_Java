@@ -29,6 +29,8 @@
 - **20-Jan-2026 (Tuesday):** Attended review for Java on OOPS concepts.
 - **21-Jan-2026 (Wednesday):** Completed week 3 day 1 to day 3 practice problems.
 - **22-Jan-2026 (Thursday):** Completed week 3 day 4 to day 6 practice problems.
+- **23-Jan-2026 (Friday):** Completed creating and pusing coding files to the new repo OOPSBannerApp.
+
 
 
 
