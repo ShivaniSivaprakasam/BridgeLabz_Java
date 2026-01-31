@@ -33,7 +33,10 @@
 - **24-Jan-2026 (Saturday):** Added single and multiline commands to the code in OOPSBannerApp.
 - **27-Jan-2026 (Tuesday):** Completed week 4 day 1 coding problems.
 - **28-Jan-2026 (Wednesday):** Completed week 4 day 2 coding problems.
-- **29-Jan-2026 (Thursday):** Started working on  Console-Based Assignment Posted: Factory Robot Hazard Analyzer.
+- **29-Jan-2026 (Thursday):** Completed Console-Based Assignment Posted: Factory Robot Hazard Analyzer.
+- **30-Jan-2026 (Friday):** Attended review for data structure and algorithms
+- **31-Jan-2026 (Saturday):** Completed and uploaded week 4 day 3 practice problems to git-hub.
+
 
 
 
