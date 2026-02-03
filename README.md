@@ -36,6 +36,8 @@
 - **29-Jan-2026 (Thursday):** Completed Console-Based Assignment Posted: Factory Robot Hazard Analyzer.
 - **30-Jan-2026 (Friday):** Attended review for data structure and algorithms
 - **31-Jan-2026 (Saturday):** Completed and uploaded week 4 day 3 practice problems to git-hub.
+- **02-Feb-2026 (Monday):** Completed and uploaded week 4 day 4 practice problems to git-hub.
+
 
 
 
