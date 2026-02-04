@@ -37,6 +37,9 @@
 - **30-Jan-2026 (Friday):** Attended review for data structure and algorithms
 - **31-Jan-2026 (Saturday):** Completed and uploaded week 4 day 3 practice problems to git-hub.
 - **02-Feb-2026 (Monday):** Completed and uploaded week 4 day 4 practice problems to git-hub.
+- **03-Feb-2026 (Tuesday):** Completed git project on oceanfleetapp.
+- **04-Feb-2026 (Wednesday):** Completed and uploaded week 4 day 5 practice problems to git-hub.
+
 
 
 
