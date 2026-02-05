@@ -39,6 +39,8 @@
 - **02-Feb-2026 (Monday):** Completed and uploaded week 4 day 4 practice problems to git-hub.
 - **03-Feb-2026 (Tuesday):** Completed git project on oceanfleetapp.
 - **04-Feb-2026 (Wednesday):** Completed and uploaded week 4 day 5 practice problems to git-hub.
+- **05-Feb-2026 (Thursday):** Completed and uploaded week 4 day 6 practice problems to git-hub.
+
 
 
 
