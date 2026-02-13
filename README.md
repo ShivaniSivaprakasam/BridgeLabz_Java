@@ -40,6 +40,14 @@
 - **03-Feb-2026 (Tuesday):** Completed git project on oceanfleetapp.
 - **04-Feb-2026 (Wednesday):** Completed and uploaded week 4 day 5 practice problems to git-hub.
 - **05-Feb-2026 (Thursday):** Completed and uploaded week 4 day 6 practice problems to git-hub.
+- **06-Feb-2026 (Friday):** Completed week 5 day 1 practice problems.
+- **07-Feb-2026 (Saturday):** Attended power skills sesson.
+- **09-Feb-2026 (Monday):** Completed week 5 day 2 practice problems.
+- **10-Feb-2026 (Tuesday):** Attended weekly review on java generics and collections.
+- **11-Feb-2026 (Wednesday):** Completed OceanFleatApp.
+- **12-Feb-2026 (Thursday):** Took sick-leave.
+- **13-Feb-2026 (Friday):** Completed week 5 practice problems and uploaded to git-hub.
+
 
 
 
