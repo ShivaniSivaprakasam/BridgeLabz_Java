@@ -1,4 +1,4 @@
-package graphandtrees;
+package datastructures.graphandtrees;
 import java.util.*;
 
 // Program to find the diameter of a binary tree

@@ -1,4 +1,4 @@
-package graphandtrees;
+package datastructures.graphandtrees;
 import java.util.*;
 // Count connected components in an undirected graph
 class ConnectedComponents {

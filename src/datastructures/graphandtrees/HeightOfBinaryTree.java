@@ -1,4 +1,4 @@
-package graphandtrees;
+package datastructures.graphandtrees;
 import java.util.*;
 
 // Program to find height of a binary tree

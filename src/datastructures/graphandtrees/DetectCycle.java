@@ -1,4 +1,4 @@
-package graphandtrees;
+package datastructures.graphandtrees;
 import java.util.*;
 // Detect cycle in an undirected graph using DFS
 class DetectCycle {

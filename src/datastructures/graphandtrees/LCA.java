@@ -1,4 +1,4 @@
-package graphandtrees;
+package datastructures.graphandtrees;
 import java.util.*;
 
 // Program to find Lowest Common Ancestor (LCA) of two nodes in a binary tree
