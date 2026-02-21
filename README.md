@@ -49,6 +49,12 @@
 - **13-Feb-2026 (Friday):** Completed week 5 practice problems and uploaded to GitHub.
 - **14-Feb-2026 (Saturday):** Attended power-skills training, revised basic grammar and professional email writing.
 - **16-Feb-2026 (Monday):** Completed problem on trees and graphs and uploaded coding files into GitHub.
+- **17-Feb-2026 (Tuesday):** Attended review on java feature 8.
+- **18-Feb-2026 (Wednesday):** Worked on hackerrank problems.
+- **19-Feb-2026 (Thursday):** Worked on hackerrank problems.
+- **20-Feb-2026 (Friday):** Completed problems on annotation and design pattern and uploaded the code to GitHub.
+- **21-Feb-2026 (Saturday):** Attended power skills session, gave a 3 minute speach on curiosity.
+
 
 
 
