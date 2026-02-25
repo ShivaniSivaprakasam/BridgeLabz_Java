@@ -54,6 +54,10 @@
 - **19-Feb-2026 (Thursday):** Worked on hackerrank problems.
 - **20-Feb-2026 (Friday):** Completed problems on annotation and design pattern and uploaded the code to GitHub.
 - **21-Feb-2026 (Saturday):** Attended power skills session, gave a 3 minute speach on curiosity.
+- **23-Feb-2026 (Monday):** Completed code for Quantity Measurement App.
+- **24-Feb-2026 (Tuesday):** Installed and set up of MySQL server.
+- **25-Feb-2026 (Wednesday):** Added work to checklist and completed week 6 day 2 and day 3 SQL queries.
+
 
 
 
