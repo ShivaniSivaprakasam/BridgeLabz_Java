@@ -83,6 +83,9 @@
 - **25-Mar-2026 (Wednesday):** Started working on AddressBookApp and pushed UC1-UC3 code to a new repo in GitHub named "AddressBook-SpringBoot".
 - **26-Mar-2026 (Thursday):** Started working on AddressBookApp and pushed UC4-UC8 code to a new repo in GitHub named "AddressBook-SpringBoot".
 - **27-Mar-2026 (Friday):** Started working on AddressBookApp and pushed UC9-UC12 code to a new repo in GitHub named "AddressBook-SpringBoot".
+- **28-Mar-2026 (Saturday):** Delivered a professional presentation on "Continuous Learning" during a comprehensive power-skills training program.
+- **30-Mar-2026 (Monday):** Completed UC15 of Quantity measurement app and uploaded the code to GitHub repo named "Quantity-Measurement-App".
+- **01-April-2026 (Wednesday):** Completed hosptial management app and uploaded the code to GitHub repo named "Hospital-Management-App".
 
 
 
