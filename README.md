@@ -86,6 +86,16 @@
 - **28-Mar-2026 (Saturday):** Delivered a professional presentation on "Continuous Learning" during a comprehensive power-skills training program.
 - **30-Mar-2026 (Monday):** Completed UC15 of Quantity measurement app and uploaded the code to GitHub repo named "Quantity-Measurement-App".
 - **01-April-2026 (Wednesday):** Completed hosptial management app and uploaded the code to GitHub repo named "Hospital-Management-App".
+- **02-April-2026 (Thursday):** Started working on FunDoNotes application covering cocepts like RabbitMQ, Redies, JWT etc.
+- **03-April-2026 (Friday):** Gave a presentation on "JPQL - Java Persistent Querry Language" for 10 mins and answered questions asked by the mentor.
+- **04-April-2026 (Saturday):** Delivered a professional presentation on "Speaking up with courage" during a comprehensive power-skills training program.
+- **06-April-2026 (Monday):** Worked on UC16 of quantity measurement app and added in the code to the repository called "Quantity-measurement-app" in github.
+- **07-April-2026 (Tuesday):** Worked on UC17 of quantity measurement app and added in the code to the repository called "Quantity-measurement-app" in github.
+- **08-April-2026 (Wednesday):** Gave a presentation on "Dependency Injection" with the project team answered questions asked by the mentors.
+- **09-April-2026 (Thursday):** Started learning concepts of JMS and redies.
+- **10-April-2026 (Saturday):**  Gave a presentation on "Bean concept" with the project team answered questions asked by the mentors.
+- **11-April-2026 (Saturday):** Attended power-skills training, revised basic grammar and professional email writing.
+- **13-April-2026 (Monday):** Started learning concepts of RabbitMQ and spring batch with excel and microservices.
 
 
 
