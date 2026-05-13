@@ -96,6 +96,31 @@
 - **10-April-2026 (Saturday):**  Gave a presentation on "Bean concept" with the project team answered questions asked by the mentors.
 - **11-April-2026 (Saturday):** Attended power-skills training, revised basic grammar and professional email writing.
 - **13-April-2026 (Monday):** Started learning concepts of RabbitMQ and spring batch with excel and microservices.
+- **14-April-2026 (Tuesday):** Started learning concepts of Redis for microservices.
+- **15-April-2026 (Wednesday):** Started learning concepts of Redis for microservices.
+- **16-April-2026 (Thursday):** Covered important concepts for microservices and did the basic setup for E-commerse app that implements microservice.
+- **17-April-2026 (Friday):** Started working on book store microservices completed infra-services which include Eureka, config and API gateway.
+- **18-April-2026 (Saturday):** Attended power-skills training, revised presentation fundamentals and communication rules.
+- **20-April-2026 (Monday):** Completed working on infra-services and started working on admin-services.
+- **21-April-2026 (Tuesday):** Completed working on admin-service and started to work on common-lib and user-service.
+- **22-April-2026 (Wednesday):** Completed working on common-lib and user-service and started to work on cart-service and customer-service.
+- **23-April-2026 (Thursday):** Completed working on cart-service and customer-service and started to work on order-service and product-service.
+- **24-April-2026 (Friday):** Completed working on order-service and product-service and started to work on notification-service.
+- **25-April-2026 (Saturday):** Attended power-skills training, revised presentation fundamentals and communication rules.
+- **27-April-2026 (Monday):** Completed working on notification-service and started to work on wishlist-service and feedback-service.
+- **28-April-2026 (Tuesday):** Completed working on infracture-service and checked the codes to make sure all the API end-points are working.
+- **29-April-2026 (Wednesday):** Checked all the API endpoints and pushed the codes for E-Commerse bookstore microservice in git-hub in a repo named "bookstore-microservices"
+- **30-April-2026 (Thursday):** Started to learn concepts on cloud and AWS.
+- **02-May-2026 (Saturday):** Attended power-skills training, revised presentation fundamentals and communication rules.
+- **04-May-2026 (Monday):** Learn concepts on docker.
+- **05-May-2026 (Tuesday):** Tried to deploy previously built greeting-app using AWS and docker concepts.
+- **06-May-2026 (Wednesday):** Started working on the group project "Stock-portfolio-monitoring-app" wored on auth-service and notification-service.
+- **07-May-2026 (Thursday):** Completed auth-service and checked to the working of all endpoint APIs for this service.
+- **08-May-2026 (Friday):** Completed notification-service and checked to the working of all endpoint APIs for this service.
+- **09-May-2026 (Saturday):** Attended recap session for soft-skills.
+- **11-May-2026 (Monday):** Pushed auth and notificaiton service to common git-hub repo maintained by the group lead and gave pull requests for the same.
+- **12-May-2026 (Tuesday):** Worked on deploying the completed stock-portfolio-app.
+- **13-May-2026 (Wednesday):** Attended spring-boot review with mentor, cross-verified if all the git-hub and folder structures are in order.
 
 
 
