@@ -104,8 +104,7 @@
 - **20-April-2026 (Monday):** Completed working on infra-services and started working on admin-services.
 - **21-April-2026 (Tuesday):** Completed working on admin-service and started to work on common-lib and user-service.
 - **22-April-2026 (Wednesday):** Completed working on common-lib and user-service and started to work on cart-service and customer-service.
-- **23-April-2026 (Thursday):** Completed working on cart-service and customer-service and started to work on order-service and product-service.
-- **24-April-2026 (Friday):** Completed working on order-service and product-service and started to work on notification-service.
+- **24-April-2026 (Friday):** Completed working on cart-service, customer-service and order-service and product-service and started to work on notification-service.
 - **25-April-2026 (Saturday):** Attended power-skills training, revised presentation fundamentals and communication rules.
 - **27-April-2026 (Monday):** Completed working on notification-service and started to work on wishlist-service and feedback-service.
 - **28-April-2026 (Tuesday):** Completed working on infracture-service and checked the codes to make sure all the API end-points are working.
